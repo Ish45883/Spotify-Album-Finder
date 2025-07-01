@@ -50,10 +50,14 @@ npm install
 ```
 
 This will generate the `node_modules/` folder with all project dependencies.
+Kindly run a dev env. to locally host the site:
+```bash
+npm run dev
+```
 
 ---
 
-## 📄 License
+##  License
 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
