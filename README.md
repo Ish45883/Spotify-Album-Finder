@@ -1,4 +1,4 @@
-#  Spotify Album Finder
+#  Spotify Album Finder by Ishan A
 
 A sleek and responsive web application that allows users to search for musical artists and explore their albums using the Spotify Web API. Built with React, Vite, and React-Bootstrap.
 
@@ -77,4 +77,5 @@ software.
 * [Spotify for Developers](https://developer.spotify.com/)
 * [React Bootstrap](https://react-bootstrap.github.io/)
 * [OpenAI](chatgpt.com)
+* [Codedex](codedex.io)
 This document was created using the assistance of OpenAI
