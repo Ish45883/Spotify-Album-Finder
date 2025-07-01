@@ -77,6 +77,6 @@ software.
 * [Spotify for Developers](https://developer.spotify.com/)
 * [React Bootstrap](https://react-bootstrap.github.io/)
 * [OpenAI](chatgpt.com)
-* [Codedex](codedex.io)
+* [Codedex](https://www.codedex.io/)
 
 This document was created using the assistance of OpenAI
