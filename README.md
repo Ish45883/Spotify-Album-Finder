@@ -78,4 +78,5 @@ software.
 * [React Bootstrap](https://react-bootstrap.github.io/)
 * [OpenAI](chatgpt.com)
 * [Codedex](codedex.io)
+
 This document was created using the assistance of OpenAI
