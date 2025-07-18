@@ -16,7 +16,7 @@ Designed with modern frontend technologies and seamless API integration to deliv
 
 ---
 
-##Demo:
+## Demo:
 
 [Click this link](https://spotify-album-finder-topaz.vercel.app/)
 
